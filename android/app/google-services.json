@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35057291322",
+    "project_id": "forms-d8624",
+    "storage_bucket": "forms-d8624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35057291322:android:fd72c290fb8538bc682503",
+        "android_client_info": {
+          "package_name": "com.example.note11_making_forms_using_textfield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35057291322-bl12sqr65lmpl28s170r4bjkasb538j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYTKgYNQlmd0duylER6grsDzaCUEUSAz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35057291322-bl12sqr65lmpl28s170r4bjkasb538j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
